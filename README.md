@@ -12,4 +12,4 @@ This is an <ins>underlined</ins> text
 - prvni odrazka
 - druha odrazka
 
-bude mezera?
+pro mezeru mezi radky je potreba udelat mezeru mezi radky i v pycharmu
